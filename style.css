@@ -41,9 +41,11 @@ section {
     text-align: center;
 }
 
-section#accueil {
-    background-color: #e3f2fd;
-    padding: 60px;
+.accueil { 
+  
+  background-image: url("https://assets.codepen.io/6093409/sprocket.svg");
+  background-color: grey
+ 
 }
 
 button {
