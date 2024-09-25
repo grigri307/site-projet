@@ -41,9 +41,9 @@ section {
     text-align: center;
 }
 
-.accueil { 
+section#accueil { 
   
-  background-image: url("https://assets.codepen.io/6093409/sprocket.svg");
+  background-image: url("https://kessel.imgix.net/d9584460-b801-47d5-b685-0f701195b5ed.jpeg?rect=0,0,0,0");
   background-color: grey
  
 }
