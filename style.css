@@ -42,9 +42,9 @@ section {
 }
 
 .accueil { 
-  
   background-image: url("https://grigri307.github.io/test/images.jpg");
-  background-color: grey
+  background-color: grey;
+  background-repeat: space;
  
 }
 
