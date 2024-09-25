@@ -38,7 +38,7 @@ nav ul li a {
 
 section {
       background-image: 
-    linear-gradient(to bottom, rgba(255,255,255,10), rgba(0,0,0,0.5)),   url("https://grigri307.github.io/test/933906b4ff35d05aafa76e9d5e22e23e.gif");
+    linear-gradient(to bottom, rgba(255,255,255,0.5),   url("https://grigri307.github.io/test/933906b4ff35d05aafa76e9d5e22e23e.gif");
     background-color: #007bff;
     background-repeat: no-repeat;
     padding: 40px;
