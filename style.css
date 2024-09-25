@@ -39,9 +39,11 @@ nav ul li a {
 section {
     background-image: url("https://grigri307.github.io/test/images.jpg");
     background-color: #007bff;
-    background-repeat: space;
+    background-repeat: no-repeat;
     padding: 40px;
     text-align: center;
+    background-position: center;
+    background-size: cover;
 }
 
 button {
